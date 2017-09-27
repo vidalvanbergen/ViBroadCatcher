@@ -1,0 +1,16 @@
+#tag FileTypeSet
+	#tag FileType
+		CodeName=PlistPlain
+		Extension=.plist
+		Flags=&h0
+		MacCreator=????
+		MacType=PLST
+		Name=plist/plain
+		UTI=
+		UTIConformsTo=
+		Description=
+		MimeType=
+		Imported=True
+	#tag EndFileType
+
+#tag EndFileTypeSet

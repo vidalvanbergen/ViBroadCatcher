@@ -1,0 +1,100 @@
+#tag FileTypeSet
+	#tag FileType
+		CodeName=ApplicationZip
+		Extension=.zip
+		Flags=&h0
+		MacCreator=SITx
+		MacType=ZIP 
+		Name=application/zip
+		UTI=
+		UTIConformsTo=
+		Description=
+		MimeType=
+		Imported=True
+	#tag EndFileType
+
+	#tag FileType
+		CodeName=ApplicationXTar
+		Extension=.tar
+		Flags=&h0
+		MacCreator=S691
+		MacType=TARF
+		Name=application/x-tar
+		UTI=
+		UTIConformsTo=
+		Description=
+		MimeType=
+		Imported=True
+	#tag EndFileType
+
+	#tag FileType
+		CodeName=ApplicationXStuffit
+		Extension=.sit;.SIT
+		Flags=&h0
+		MacCreator=????
+		MacType=SITD
+		Name=application/x-stuffit
+		UTI=
+		UTIConformsTo=
+		Description=
+		MimeType=
+		Imported=True
+	#tag EndFileType
+
+	#tag FileType
+		CodeName=ApplicationXGzip
+		Extension=.gz;.tgz
+		Flags=&h0
+		MacCreator=SITx
+		MacType=Gzip
+		Name=application/x-gzip
+		UTI=
+		UTIConformsTo=
+		Description=
+		MimeType=
+		Imported=True
+	#tag EndFileType
+
+	#tag FileType
+		CodeName=ApplicationRar
+		Extension=.rar
+		Flags=&h0
+		MacCreator=SITx
+		MacType=RAR
+		Name=application/rar
+		UTI=
+		UTIConformsTo=
+		Description=
+		MimeType=
+		Imported=True
+	#tag EndFileType
+
+	#tag FileType
+		CodeName=VirtualDiskimage
+		Extension=.iso;.img
+		Flags=&h0
+		MacCreator=????
+		MacType=????
+		Name=virtual/diskimage
+		UTI=
+		UTIConformsTo=
+		Description=
+		MimeType=
+		Imported=True
+	#tag EndFileType
+
+	#tag FileType
+		CodeName=Application7z
+		Extension=.7z
+		Flags=&h0
+		MacCreator=SITx
+		MacType=7z
+		Name=application/7z
+		UTI=
+		UTIConformsTo=
+		Description=
+		MimeType=
+		Imported=True
+	#tag EndFileType
+
+#tag EndFileTypeSet

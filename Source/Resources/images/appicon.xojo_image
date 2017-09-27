@@ -1,0 +1,43 @@
+#tag MultiImage
+Image appicon
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAHOAAAAAAHOAAIAAAZNeXJhIFkAAAAAAAAAAAAAAAAAAAAAAAAAAADRtv68SCsAAABbbhcLYXBwaWNvbi5wbmcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFtuG9U08MxQTkdmOEJJTf////8AAAkAAAAAAAAAAAAAAAAAAAAABmltYWdlcwAQAAgAANG24pwAAAARAAgAANU01KwAAAABABgAW24XAFtt9ABpdzwAW21yAFtovgBP7bQAAgBcTXlyYSBZOkRldmVsb3BtZW50OgBYb2pvIFByb2plY3RzOgBAUHJvamVjdHM6AFZpQnJvYWRDYXRjaGVyOgBSZXNvdXJjZXM6AGltYWdlczoAYXBwaWNvbi5wbmcADgAYAAsAYQBwAHAAaQBjAG8AbgAuAHAAbgBnAA8ADgAGAE0AeQByAGEAIABZABIAUC9EZXZlbG9wbWVudC9Yb2pvIFByb2plY3RzL0BQcm9qZWN0cy9WaUJyb2FkQ2F0Y2hlci9SZXNvdXJjZXMvaW1hZ2VzL2FwcGljb24ucG5nABMADy9Wb2x1bWVzL015cmEgWQD//wAAAAAAAAAA
+		FullPath = /Volumes/Myra Y/Development/Xojo Projects/@Projects/ViBroadCatcher/Resources/images/appicon.png
+		PartialPath = ..\Resources\images\appicon.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 72
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAHcAAAAAAHcAAIAAAZNeXJhIFkAAAAAAAAAAAAAAAAAAAAAAAAAAADRtv68SCsAAABbbhcOYXBwaWNvbkAyeC5wbmcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFtuHNU08MxQTkdmOEJJTf////8AAAkAAAAAAAAAAAAAAAAAAAAABmltYWdlcwAQAAgAANG24pwAAAARAAgAANU01KwAAAABABgAW24XAFtt9ABpdzwAW21yAFtovgBP7bQAAgBfTXlyYSBZOkRldmVsb3BtZW50OgBYb2pvIFByb2plY3RzOgBAUHJvamVjdHM6AFZpQnJvYWRDYXRjaGVyOgBSZXNvdXJjZXM6AGltYWdlczoAYXBwaWNvbkAyeC5wbmcAAA4AHgAOAGEAcABwAGkAYwBvAG4AQAAyAHgALgBwAG4AZwAPAA4ABgBNAHkAcgBhACAAWQASAFMvRGV2ZWxvcG1lbnQvWG9qbyBQcm9qZWN0cy9AUHJvamVjdHMvVmlCcm9hZENhdGNoZXIvUmVzb3VyY2VzL2ltYWdlcy9hcHBpY29uQDJ4LnBuZwAAEwAPL1ZvbHVtZXMvTXlyYSBZAP//AAAAAAAAAAA=
+		FullPath = /Volumes/Myra Y/Development/Xojo Projects/@Projects/ViBroadCatcher/Resources/images/appicon@2x.png
+		PartialPath = ..\Resources\images\appicon@2x.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 144
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 216
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+End Image
+#tag EndMultiImage

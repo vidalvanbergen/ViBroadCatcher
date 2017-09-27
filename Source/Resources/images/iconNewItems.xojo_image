@@ -1,0 +1,46 @@
+#tag MultiImage
+Image iconNewItems
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAHWAAAAAAHWAAIAAAZNeXJhIFkAAAAAAAAAAAAAAAAAAAAAAAAAAADRtv68SCsAAABbbhcNbmV3LWxhYmVsLnBuZwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFtuVdVDn7gAAAAAAAAAAP////8AAAkAAAAAAAAAAAAAAAAAAAAABmltYWdlcwAQAAgAANG24pwAAAARAAgAANVDg5gAAAABABgAW24XAFtt9ABpdzwAW21yAFtovgBP7bQAAgBeTXlyYSBZOkRldmVsb3BtZW50OgBYb2pvIFByb2plY3RzOgBAUHJvamVjdHM6AFZpQnJvYWRDYXRjaGVyOgBSZXNvdXJjZXM6AGltYWdlczoAbmV3LWxhYmVsLnBuZwAOABwADQBuAGUAdwAtAGwAYQBiAGUAbAAuAHAAbgBnAA8ADgAGAE0AeQByAGEAIABZABIAUi9EZXZlbG9wbWVudC9Yb2pvIFByb2plY3RzL0BQcm9qZWN0cy9WaUJyb2FkQ2F0Y2hlci9SZXNvdXJjZXMvaW1hZ2VzL25ldy1sYWJlbC5wbmcAEwAPL1ZvbHVtZXMvTXlyYSBZAP//AAAAAAAAAAA=
+		FullPath = /Volumes/Myra Y/Development/Xojo Projects/@Projects/ViBroadCatcher/Resources/images/new-label.png
+		PartialPath = ..\Resources\images\new-label.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 16.00
+			Orientation = Any
+			Platform = 15
+			PPI = 72
+			VSize = 16.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAHkAAAAAAHkAAIAAAZNeXJhIFkAAAAAAAAAAAAAAAAAAAAAAAAAAADRtv68SCsAAABbbhcQbmV3LWxhYmVsQDJ4LnBuZwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFtuVtVDn7gAAAAAAAAAAP////8AAAkAAAAAAAAAAAAAAAAAAAAABmltYWdlcwAQAAgAANG24pwAAAARAAgAANVDg5gAAAABABgAW24XAFtt9ABpdzwAW21yAFtovgBP7bQAAgBhTXlyYSBZOkRldmVsb3BtZW50OgBYb2pvIFByb2plY3RzOgBAUHJvamVjdHM6AFZpQnJvYWRDYXRjaGVyOgBSZXNvdXJjZXM6AGltYWdlczoAbmV3LWxhYmVsQDJ4LnBuZwAADgAiABAAbgBlAHcALQBsAGEAYgBlAGwAQAAyAHgALgBwAG4AZwAPAA4ABgBNAHkAcgBhACAAWQASAFUvRGV2ZWxvcG1lbnQvWG9qbyBQcm9qZWN0cy9AUHJvamVjdHMvVmlCcm9hZENhdGNoZXIvUmVzb3VyY2VzL2ltYWdlcy9uZXctbGFiZWxAMngucG5nAAATAA8vVm9sdW1lcy9NeXJhIFkA//8AAAAAAAAAAA==
+		FullPath = /Volumes/Myra Y/Development/Xojo Projects/@Projects/ViBroadCatcher/Resources/images/new-label@2x.png
+		PartialPath = ..\Resources\images\new-label@2x.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 16.00
+			Orientation = Any
+			Platform = 15
+			PPI = 144
+			VSize = 16.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAAHkAAAAAAHkAAIAAAZNeXJhIFkAAAAAAAAAAAAAAAAAAAAAAAAAAADRtv68SCsAAABbbhcQbmV3LWxhYmVsQDN4LnBuZwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFtuV9VDn7gAAAAAAAAAAP////8AAAkAAAAAAAAAAAAAAAAAAAAABmltYWdlcwAQAAgAANG24pwAAAARAAgAANVDg5gAAAABABgAW24XAFtt9ABpdzwAW21yAFtovgBP7bQAAgBhTXlyYSBZOkRldmVsb3BtZW50OgBYb2pvIFByb2plY3RzOgBAUHJvamVjdHM6AFZpQnJvYWRDYXRjaGVyOgBSZXNvdXJjZXM6AGltYWdlczoAbmV3LWxhYmVsQDN4LnBuZwAADgAiABAAbgBlAHcALQBsAGEAYgBlAGwAQAAzAHgALgBwAG4AZwAPAA4ABgBNAHkAcgBhACAAWQASAFUvRGV2ZWxvcG1lbnQvWG9qbyBQcm9qZWN0cy9AUHJvamVjdHMvVmlCcm9hZENhdGNoZXIvUmVzb3VyY2VzL2ltYWdlcy9uZXctbGFiZWxAM3gucG5nAAATAA8vVm9sdW1lcy9NeXJhIFkA//8AAAAAAAAAAA==
+		FullPath = /Volumes/Myra Y/Development/Xojo Projects/@Projects/ViBroadCatcher/Resources/images/new-label@3x.png
+		PartialPath = ..\Resources\images\new-label@3x.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 16.00
+			Orientation = Any
+			Platform = 15
+			PPI = 216
+			VSize = 16.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+End Image
+#tag EndMultiImage

@@ -1,0 +1,72 @@
+#tag FileTypeSet
+	#tag FileType
+		CodeName=Jpeg
+		Extension=.jfif;.jpe;.jpeg;.jpg
+		Flags=&h0
+		MacCreator=prvw
+		MacType=JPEG
+		Name=image/jpeg
+		UTI=public.jpeg
+		UTIConformsTo=
+		Description=
+		MimeType=
+		Imported=True
+	#tag EndFileType
+
+	#tag FileType
+		CodeName=Png
+		Extension=.png
+		Flags=&h0
+		MacCreator=ogle
+		MacType=PNGf
+		Name=image/png
+		UTI=public.png
+		UTIConformsTo=
+		Description=
+		MimeType=
+		Imported=True
+	#tag EndFileType
+
+	#tag FileType
+		CodeName=ImageGif
+		Extension=.gif
+		Flags=&h0
+		MacCreator=prvw
+		MacType=GIFf
+		Name=image/gif
+		UTI=com.compuserve.gif
+		UTIConformsTo=
+		Description=
+		MimeType=
+		Imported=True
+	#tag EndFileType
+
+	#tag FileType
+		CodeName=ImageTiff
+		Extension=.jfx;.tif;.tiff
+		Flags=&h0
+		MacCreator=????
+		MacType=TIFF
+		Name=image/tiff
+		UTI=public.tiff
+		UTIConformsTo=
+		Description=
+		MimeType=
+		Imported=True
+	#tag EndFileType
+
+	#tag FileType
+		CodeName=ImageTbn
+		Extension=.tbn
+		Flags=&h0
+		MacCreator=prvw
+		MacType=JPEG
+		Name=image/tbn
+		UTI=public.tbn
+		UTIConformsTo=
+		Description=
+		MimeType=
+		Imported=True
+	#tag EndFileType
+
+#tag EndFileTypeSet
