@@ -15,6 +15,19 @@
         "Hash":"5D3413480D81404B8CD52A7FEF3CD8FB",
         "URL":"http:\/\/vitalis.heliohost.org\/files\/vibroadcatcher.zip"
       }
+    },
+    {
+      "AppName":"ViBroadCatcher",
+      "ImageURL":"http:\/\/vitalis.heliohost.org\/img\/ViBroadCatcher.png",
+      "MinimumRequiredVersion":"",
+      "ReleaseNotes":"<style>\n * { font-family: sans-serif; }\n<\/style>\n\n<ul>\n  <li>Now uses .inetloc instead of .webloc to allow opening magnet links correctly.<\/li>\n  <li>General bug fixes and stability improvements.<\/li>\n<\/ul>",
+      "RequiresPayment":false,
+      "UseTransparency":true,
+      "Version":"1.1",
+      "MacBinary":{
+        "Hash":"84C01BCCE5EBD51BE0E0F596CA654DB3",
+        "URL":"http:\/\/vitalis.heliohost.org\/files\/vibroadcatcher.zip"
+      }
     }
   ]
 }

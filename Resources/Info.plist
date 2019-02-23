@@ -4,13 +4,9 @@
 <dict>
 	<key>LSApplicationCategoryType</key>
 	<string>public.app-category.news</string>
-	<key>NSAppleScriptEnabled</key>
-	<true/>
 	<key>NSHighResolutionCapable</key>
 	<true/>
-	<key>SUPublicDSAKeyFile</key>
-	<string>dsa_pub.pem</string>
-	<key>NSUIElement</key>
-	<integer>1</integer>
+	<key>NSRequiresAquaSystemAppearance</key>
+	<false/>
 </dict>
 </plist>
